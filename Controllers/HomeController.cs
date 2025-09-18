@@ -12,7 +12,7 @@ namespace WebApplication1.Controllers
         {
             _logger = logger;
         }
-
+        //qwer
         public IActionResult Index()
         {
             return View();
