@@ -2,9 +2,9 @@ name: WebApplication1 Image CI
 
 on:
   push:
-    branches: [ "master" ]
+    branches: [ "dev/Ravshan", "master" ]
   pull_request:
-    branches: [ "dev/Ravshan" ]
+    branches: [ "master" ]
 
 jobs:
 
