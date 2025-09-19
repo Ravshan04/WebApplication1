@@ -2,6 +2,10 @@ namespace WebApplication1
 {
     public class Program
     {
+        /// <summary>
+        /// double click to run
+        /// </summary>
+        /// <param name="args"></param>
         public static void Main(string[] args)
         {
             var builder = WebApplication.CreateBuilder(args);
