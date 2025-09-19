@@ -12,7 +12,10 @@ namespace WebApplication1.Controllers
         {
             _logger = logger;
         }
-        
+        /// <summary>
+        /// //wdcjbdfshuvagdv
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
